@@ -1,0 +1,7 @@
+A small website that has registration and log in features with registration succesful email system.
+Technology: 
+1) HTML, CSS, JavaScript for front-end
+2) PHP for server-side
+3) MySQL for database
+4) PEAR PHP for mail sending.
+5) XAMPP as local environment
